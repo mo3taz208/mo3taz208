@@ -3,12 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mo3taz208&label=Profile%20views&color=0e75b6&style=flat" alt="mo3taz208" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "200px"  />
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "300px"  />
 
  
 - 🏫 Bachalor in Artificial Intelligence . 
 - 🌱 Graduate From " IBM Data Science " At DEPI .
 - 📫 How to reach me **moataznabil246@gmail.com**
+
+
+  
+
+
+
 
 
 ********************************
@@ -33,7 +39,7 @@ href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://
 </a> </p>
 
 
-## 📊 Github Stats
+## 📊 Github Status
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo3taz208&show_icons=true&locale=en" alt="mo3taz208" /></p>
 
